@@ -7,10 +7,10 @@ CAT AND DOG CLASSIFICATION WITH TENSORFLOW
 </h1>
 
 <p align="justify">
-My project is based on the development of a machine learning using the concepts of Deep Neural Network. 
+My project is based on the development of a machine learning using the concepts of patern recognition using a TensorFlow framework. 
 
-Logistics Regression is a case of a Shallow Neural Network, while a Deep Neural Network are networks that have a much larger number of hidden layers. 
-Each Hidden Layer is endowed with a number of neurons determined by the designer.The Input Layer remains with the number of neurons corresponding to the characteristic vector that was obtained in image processing. This project is a binary classification of 0 for cats and 1 for dogs, so the Output Layer remains with a single neuron.
+----
+
 </p>
 
 <h1 align="center">
@@ -20,9 +20,9 @@ Each Hidden Layer is endowed with a number of neurons determined by the designer
 </h1>
 
 <p align="justify">
-The values that are transmitted through the different layers are called activation values and are stored in the matrix called AL in this project. As it is a model with L layers, both Forward and Backward propagation are performed by each layer with increments and decrements in repeating for loops. 
 
-Each layer is associated with parameters W and b, which will be updated according to Forward and Backward propagation, decreasing the value of the Cost Function, improving the accuracy and precision of the project.
+---
+
 </P>
 
 <h1 align="center">

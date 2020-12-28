@@ -78,6 +78,8 @@ If you are having problems during installation, a good alternative is to check y
 
 👉 By default the Os library is a package already installed together with the Python installation.
 
+👉 By default the random library is a package already installed together with the Python installation.
+
 👉 Finally, the OpenCV library can be installed through the following command in the Command Prompt:
 
 `pip install opencv-python`

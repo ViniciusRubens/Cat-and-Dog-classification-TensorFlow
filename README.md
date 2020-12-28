@@ -21,20 +21,12 @@ The concept of Convolutional Netowork is based on this concept in the analysis o
 </h1>
 
 <p align="justify">
-In CONVNets projects it is very common to use POOL layers, called Pooling Layers, used as a way to accelerate our calculations and make some features more robust. In this project, we use MaxPooling Layers in each layer with convolutional operations except in Dense layers at the end of our CNN.
+In CONV Nets projects it is very common to use POOL layers, called Pooling Layers, used as a way to accelerate our calculations and make some features more robust. In this project, we use MaxPooling Layers in each layer with convolutional operations except in Dense layers at the end of our CNN.
 </P>
 
 <h1 align="center">
 <br>
   <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/MaxPool%20example.png alt="DEEP NEURAL NETWORK" width="370" height = "225">
-<br>
-</h1>
-
-<h1 align="center">
-<br>
-  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/sequence.png alt="DEEP NEURAL NETWORK" width="210">
-                    
-  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/calculus.png alt="DEEP NEURAL NETWORK" width="300">
 <br>
 </h1>
 

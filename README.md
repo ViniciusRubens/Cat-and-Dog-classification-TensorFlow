@@ -17,7 +17,7 @@ O conceito da Convolutional Neural Netowork está baseado na análise da nossa s
 
 <h1 align="center">
 <br>
-  <img src= alt="CNN model" width="550" height = "150">
+  <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/CNN%20Model.png alt="CNN model" width="550" height = "150">
 <br>
 </h1>
 

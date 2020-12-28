@@ -53,6 +53,7 @@ The programming language used was Python 3 in Jupyter environment, using the lib
 - 📁 [Numpy](https://numpy.org/) — Python library used for the calculations of multidimensional matrices.
 - 📁 [Matplotlib](https://matplotlib.org/3.3.3/contents.html) — Library used to check the tests.
 - 📁 [Os](https://docs.python.org/3/library/os.html) — Library used to browse directories from our PC.
+- 📁 [random](https://docs.python.org/3/library/random.html) — Library used to generate pseudo-random numbers.
 - 📁 [OpenCV](https://opencv.org/) — Library used to modify and load our images.
 
 ## Getting started

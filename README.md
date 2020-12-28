@@ -21,8 +21,7 @@ The concept of Convolutional Netowork is based on this concept in the analysis o
 </h1>
 
 <p align="justify">
-Nos projetos de CONVNets é muito comum a utilização de camadas POOL, chamada Pooling Layers, usadas como forma de acelerar nossos cálculos e tornar algumas características mais robustas
-
+In CONVNets projects it is very common to use POOL layers, called Pooling Layers, used as a way to accelerate our calculations and make some features more robust. In this project, we use MaxPooling Layers in each layer with convolutional operations except in Dense layers at the end of our CNN.
 </P>
 
 <h1 align="center">

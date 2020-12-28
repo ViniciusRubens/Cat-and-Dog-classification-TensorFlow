@@ -9,10 +9,9 @@ CAT AND DOG CLASSIFICATION WITH TENSORFLOW
 <p align="justify">
 My project is based on the development of a machine learning using the concepts of Convolutional Neural Network with TensorFlow Framework.
 
-Nos estudos de Deep Learning é visto que determinadas camadas são responsáveis por determinados padrões de reconhecimento, como bordas, texturas, e asism por diante. 
+In Deep Learning, certain layers are responsible for certain recognition patterns, such as edges, textures, and so on. 
 
-O conceito da Convolutional Neural Netowork está baseado na análise da nossa suposta imagem, e a partir dos valores de pixels presentes nessa imagem, possamos utilizar filtros, também chamados de Kernel, que irão executar a operações Convilucionais para obtermos outros valores em uma matriz de tamanho menor, e assim reconhecermos os padrões necessários de cada camada. 
-
+The concept of Convolutional Netowork is based on this concept in the analysis of our supposed image, and with the values of pixels present in this image, we will use filters, also called Kernel, which will perform Convolutional operations to obtain other values in a smaller matrix, and thus recognize the patterns needed for each layer. 
 </p>
 
 <h1 align="center">

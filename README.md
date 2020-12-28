@@ -26,7 +26,7 @@ In CONVNets projects it is very common to use POOL layers, called Pooling Layers
 
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/Deep%20neural%20network%20model.png alt="DEEP NEURAL NETWORK" width="550" height = "350">
+  <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/MaxPool%20example.png alt="DEEP NEURAL NETWORK" width="550" height = "350">
 <br>
 </h1>
 

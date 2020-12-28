@@ -31,7 +31,13 @@ In CONV Nets projects it is very common to use POOL layers, called Pooling Layer
 </h1>
 
 <p align="justify">
-Moreover, it is important to note that this project is a Deep Neural Network model for study and knowledge of how machine learning works for simple situations, without using mechanisms and frameworks, which would have a more significant efficiency, but which is not the goal in this work. This can be seen, by the uses of various functions of calculations such as RELU and Sigmoid (Activation Function for Output Layer), Cost Function, Forward Propagation and Backward Propagation.
+In this project the RELU activation function was used in all the other layers, and only in the last layer the Sigmoid is used, because we are making a binary classification, and the Sigmoid function is efficient for these cases. Unlike my other projects, here it was not necessary to build the activation functions or the Forward or Backward propagation process, the framework is responsible for this type of process, and it is up to the developer to build the model and process the data.
+
+Still in the last layers, we observe a Flatten operation to modify our matrix, with the purpose of creating the Fully Connected Layers determined by the Dense operation, which will help in the transfer of parameters for pattern recognition. 
+</p>
+
+<p align="justify">
+Moreover, it is important to note that this project is a CNN model for study and knowledge of how machine learning works for simple situations. Even using frameworks the result will depend on how you design your Convolutional Neural Network, always watching Overfiting or Underfiting and studying how to improve your results.
 
 Thanks, and enjoy.
 

@@ -53,6 +53,8 @@ Thanks, and enjoy.
 [//]: # (Add the features of your project here:)
 The programming language used was Python 3 in Jupyter environment, using the libraries highlighted below whose documentation is in the links just by clicking on them. In the next topic you will have a description of how you can install the libraries and test the code.
 
+- 📁 [TensorFlow](https://www.tensorflow.org/api_docs/python/tf/all_symbols) — Framework used for CNN model.
+- 📁 [Keras](https://keras.io/api/) — Deep learning API working together with machine learning platform TensorFlow.
 - 📁 [Numpy](https://numpy.org/) — Python library used for the calculations of multidimensional matrices.
 - 📁 [Matplotlib](https://matplotlib.org/3.3.3/contents.html) — Library used to check the tests.
 - 📁 [Os](https://docs.python.org/3/library/os.html) — Library used to browse directories from our PC.
@@ -62,6 +64,12 @@ The programming language used was Python 3 in Jupyter environment, using the lib
 ## Getting started
 
 To use this project, we need to do some library installations. Let's see below how to do this step:
+
+👉 To install the TensorFlow library, if we use the Windows Command Prompt we can run the command:
+
+`pip install tensorflow`
+
+👉 By default the Keras is a package already installed together with the TensorFlow installation.
 
 👉 To install the Numpy library, if we use the Windows Command Prompt we can run the command:
 

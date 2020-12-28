@@ -7,9 +7,11 @@ CAT AND DOG CLASSIFICATION WITH TENSORFLOW
 </h1>
 
 <p align="justify">
-My project is based on the development of a machine learning using the concepts of patern recognition using a TensorFlow framework. 
+My project is based on the development of a machine learning using the concepts of Convolutional Neural Network with TensorFlow Framework.
 
-----
+Nos estudos de Deep Learning é visto que determinadas camadas são responsáveis por determinados padrões de reconhecimento, como bordas, texturas, e asism por diante. 
+
+O conceito da Convolutional Neural Netowork está baseado na análise da nossa suposta imagem, e a partir dos valores de pixels presentes nessa imagem, possamos utilizar filtros, também chamados de Kernel, que irão executar a operações Convilucionais para obtermos outros valores em uma matriz de tamanho menor, e assim reconhecermos os padrões necessários de cada camada. 
 
 </p>
 
@@ -20,10 +22,15 @@ My project is based on the development of a machine learning using the concepts 
 </h1>
 
 <p align="justify">
-
----
+Nos projetos de CONVNets é muito comum a utilização de camadas POOL, chamada Pooling Layers, usadas como forma de acelerar nossos cálculos e tornar algumas características mais robustas
 
 </P>
+
+<h1 align="center">
+<br>
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/Deep%20neural%20network%20model.png alt="DEEP NEURAL NETWORK" width="550" height = "350">
+<br>
+</h1>
 
 <h1 align="center">
 <br>

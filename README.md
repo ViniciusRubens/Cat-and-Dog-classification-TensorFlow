@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/LOGISTIC%20REGRESSION%20Logotipo.png alt="DEEP NEURAL NETWORK" width="200">
+  <img src=https://github.com/ViniciusRubens/Cat-and-Dog-classification-TensorFlow/blob/main/Images/CAT%20AND%20DOG%20CLASSIFICATION%20Logotipo.png alt="CAT AND DOGCLASSIFICATION" width="200">
 <br>
 <br>
-DEEP NEURAL NETWORK
+CAT AND DOG CLASSIFICATION WITH TENSORFLOW
 </h1>
 
 <p align="justify">
